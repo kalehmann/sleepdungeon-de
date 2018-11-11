@@ -30,11 +30,17 @@ each with individual skills and experiences developed the game:
 
 ### Installing and running
 
+#### Linux or OSX
+
 Make sure you have Python3 and PyGame installed, then run
 
 ```bash
 python3 bin/sleepdungeon
 ```
+
+#### Windows
+
+Download the game: [sleepdungeon.zip](downloads/sleepdungeon.zip)
 
 ### Controlls
 
