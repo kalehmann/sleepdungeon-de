@@ -42,6 +42,10 @@ python3 bin/sleepdungeon
 
 Download the game: [sleepdungeon.zip](downloads/sleepdungeon.zip)
 
+#### OSX
+
+You can also download the app for OSX [SleepDungeon.dmg](downloads/SleepDungeon.dmg)
+
 ### Controlls
 
 Use **W**, **A**, **S**, **D** or the **Arrow-Keys** to move the player. Change between
