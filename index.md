@@ -25,12 +25,14 @@ each with individual skills and experiences developed the game:
  - [Robert Ludwig](https://github.com/MinniFlo) - Graphic design
  - [Lars Westermann](https://github.com/pixix4) - Coding  
 
+ A short post with a let's play of the games tutorial is also available on
+ [Karstens blog (German)](https://blog.kalehmann.de/blog/2018/09/29/sleepdungeon.html).
 
 ## How to play the game:
 
 ### Installing and running
 
-#### Linux or OSX
+#### Linux or macOS
 
 Make sure you have Python3 and PyGame installed, then run
 
@@ -42,9 +44,9 @@ python3 bin/sleepdungeon
 
 Download the game: [sleepdungeon.zip](downloads/sleepdungeon.zip)
 
-#### OSX
+#### macOS
 
-You can also download the app for OSX [SleepDungeon.dmg](downloads/SleepDungeon.dmg)
+You can also download the app for macOS [SleepDungeon.dmg](downloads/SleepDungeon.dmg)
 
 ### Controlls
 
