@@ -102,4 +102,4 @@ Aside from all members of the team and their work, the following external resour
 / Made the sound loopable
 
 [bosslevelsoundtrack](https://github.com/robuf/sleepdungeon/blob/master/sleepdungeon/res/sound/bosslevelsoundtrack.ogg) is a modified
-version of a soundtrack by [Lukas Palásti](https://soundcloud.com/naughtyloss).
+version of a soundtrack by [Lukas Palásti](https://soundcloud.com/palastoni).
