@@ -25,7 +25,7 @@ twitter_username: ~
 github_username:  ~
 
 github:
-  repository_url: https://github.com/r0bertu/sleepdungeon
+  repository_url: https://github.com/robuf/sleepdungeon
 
 collections:
   - content
